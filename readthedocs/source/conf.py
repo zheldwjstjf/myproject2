@@ -17,7 +17,7 @@ release = '0.1'
 extensions = ['autoapi.extension']
 
 # Document Python Code
-autoapi_type = 'python3'
+autoapi_type = 'python'
 autoapi_dir = '../src'
 
 templates_path = ['_templates']
