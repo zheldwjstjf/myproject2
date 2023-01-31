@@ -21,6 +21,9 @@ Indices and tables
 
 
 
+Tables
+==================
+
 
 
 .. list-table::
@@ -44,6 +47,21 @@ Indices and tables
      JavaScript problems* or *JS input problems*) allow you to create a
      custom problem or tool that uses JavaScript and then add the problem or
      tool directly into Studio.
+
+
+.. list-table::
+   :widths: 15 15 70
+   :header-rows: 1
+
+   * - First Name
+     - Last Name
+     - Residence
+   * - Elizabeth
+     - Bennett
+     - Longbourne
+   * - Fitzwilliam
+     - Darcy
+     - Pemberley
 
 
 
