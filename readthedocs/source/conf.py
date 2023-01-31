@@ -18,7 +18,7 @@ extensions = ['autoapi.extension']
 
 # Document Python Code
 autoapi_type = 'python'
-autoapi_dir = '../src'
+autoapi_dir = '/home/docs/checkouts/readthedocs.org/user_builds/jacks-test-doc/envs/latest/lib/python3.7/site-packages/autoapi/extension.py'
 
 templates_path = ['_templates']
 exclude_patterns = []
