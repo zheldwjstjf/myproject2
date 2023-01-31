@@ -21,14 +21,13 @@ Indices and tables
 
 
 
-#. Review your entry to verify that the key is accurate and that it is
-   surrounded by quotation marks. If there is a list of keys, they must be
-   comma separated.
+"""
+Local module
+============
 
-   * In this example, the key for the Annotation Problem tool is the only
-     value in the list.
+This example demonstrates how local modules can be imported.
+This module is imported in the example 'Plotting the exponential function'
+(``plot_exp.py``).
+"""
 
-   * In this example, the key for the Annotation Problem tool is added at
-     the beginning of a list of other keys.
-
-#. Select **Save Changes**.
+N = 100
